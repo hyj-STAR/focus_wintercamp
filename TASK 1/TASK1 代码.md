@@ -1,5 +1,17 @@
 # TASK1 
 
+
+
+![image-20250115192219406](image-20250115192219406.png)
+
+![233324be2fb91e66821fdfb3e56a56a6](233324be2fb91e66821fdfb3e56a56a6.jpeg)
+
+
+
+
+
+
+
 ```BLINK
 void setup() {
   // put your setup code here, to run once:
