@@ -1,3 +1,5 @@
 # TASK 2.1
 
 ![image-20250115195641300](image-20250115195641300.png)
+
+![062c1ffad94a01cffd40c3f1f343b8d9](062c1ffad94a01cffd40c3f1f343b8d9.jpeg)
